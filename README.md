@@ -7,7 +7,8 @@ I'm a JavaScript developer currently located in Gainesville, FL!
 **Testing + Deployment:** Mocha / Chai / Jest / Enzyme / AWS EC2 / Babel / Webpack    
 **Tools:** Git / Terminal / Postman   
 
-Contact me via email: laurendayle.anderson@gmail.com
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 
 

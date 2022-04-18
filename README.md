@@ -8,6 +8,13 @@ I'm a JavaScript developer currently located in Gainesville, FL!
 **Tools:** Git / Terminal / Postman   
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   18 hrs 56 mins  ██████████████▒░░░░░░░░░░   56.87 %
+CSS          12 hrs 24 mins  █████████▒░░░░░░░░░░░░░░░   37.29 %
+Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+```
+
 <!--END_SECTION:waka-->
   
 

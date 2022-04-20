@@ -17,9 +17,9 @@ I was born in Florida and I grew up in Costa Rica, where I discovered my passion
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 56 mins  ██████████████▒░░░░░░░░░░   56.87 %
-CSS          12 hrs 24 mins  █████████▒░░░░░░░░░░░░░░░   37.29 %
-Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+JavaScript   76 hrs 31 mins  █████████████████░░░░░░░░   67.43 %
+CSS          30 hrs 44 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+Other        3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->

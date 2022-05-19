@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laurendayle.anderson@gmail.com**
 
-- 📄 Interested in working together? **[Check out my resume!](https://docs.google.com/document/d/1RJvLu5jreiMmmOVoRxeVI7oItlFTl5NcW-BCXbo89jQ/edit#)**
+- 📄 Interested in working together? **[Check out my resume!](https://drive.google.com/file/d/1JLnj-u7xXha1FgijdPTReVR_2HEQUgfC/view?usp=sharing)**
 
 - ⚡ Fun fact **I grew up in Costa Rica, where I learned fluent Spanish and discovered my passion for traveling the world 🌎**
 

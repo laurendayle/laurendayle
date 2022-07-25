@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">A passionate, Costa Rican/American full stack developer 🇨🇷🇺🇸</h3>
 
-- 💻 I’m currently working on **[GainesvilleTowingService](https://github.com/laurendayle/GainesvilleTowingService)**
-
-- 👨‍💻 All of my projects are available at **[ldandersoncode.dev](ldandersoncode.dev)**
+- 💻 I’m currently working on **[minifymy.link](https://github.com/laurendayle/minifymy.link)**
 
 - 📫 How to reach me **laurendayle.anderson@gmail.com**
 

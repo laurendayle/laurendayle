@@ -3,6 +3,8 @@
 
 - 💻 I’m currently working on **[minifymy.link](https://github.com/laurendayle/minifymy.link)**
 
+- 🧠 Right now, I'm learning all things [Authentication & Authorization](https://github.com/laurendayle/minifymy.link)
+
 - 📫 How to reach me **laurendayle.anderson@gmail.com**
 
 - 📄 Interested in working together? **[Check out my resume!](https://drive.google.com/file/d/1JLnj-u7xXha1FgijdPTReVR_2HEQUgfC/view?usp=sharing)**

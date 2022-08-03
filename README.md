@@ -5,13 +5,11 @@
 
 - 🧠 Right now, I'm learning all things [Authentication & Authorization](https://github.com/laurendayle/minifymy.link)
 
-- 📫 How to reach me **laurendayle.anderson@gmail.com**
+- 📧 How to reach me: **laurendayle.anderson@gmail.com**
 
-- 📄 Interested in working together? **[Check out my resume!](https://drive.google.com/file/d/1JLnj-u7xXha1FgijdPTReVR_2HEQUgfC/view?usp=sharing)**
+- 📄 Check out my **[resume](https://drive.google.com/file/d/1JLnj-u7xXha1FgijdPTReVR_2HEQUgfC/view?usp=sharing)**!
 
 - ⚡ Fun fact **I grew up in Costa Rica, where I learned fluent Spanish and discovered my passion for traveling the world 🌎**
-
-<p>I've always been intrigued by technology and finally, back in December of 2021, I decided to take the plunge and leave my career in veterinary medicine to pursue Software Engineering full time. To kickstart my education, I chose to attend Hack Reactor's Software Engineering Immersive, where I've acquired over 1,000 hours of coding experience with JavaScript, React, Node and more!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">A passionate, Costa Rican/American full stack developer 🇨🇷🇺🇸</h3>
 
-- 💻 I’m currently working on **[minifymy.link](https://github.com/laurendayle/minifymy.link)**
+- 💻 I’m currently working on **settling in at Amazon**. 
 
 - 🧠 Right now, I'm learning all things [Authentication & Authorization](https://github.com/laurendayle/minifymy.link)
 
 - 📧 How to reach me: **laurendayle.anderson@gmail.com**
-
-- 📄 Check out my **[resume](https://drive.google.com/file/d/1JLnj-u7xXha1FgijdPTReVR_2HEQUgfC/view?usp=sharing)**!
 
 - ⚡ Fun fact **I grew up in Costa Rica, where I learned fluent Spanish and discovered my passion for traveling the world 🌎**
 
@@ -17,15 +15,20 @@
 </p>
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); align:center; vertical-align: middle; padding:40px 0;">
+  
 <h3 align="left">Languages and Tools:</h3>
 
 </div>
 
-<h4>Frontend</h4>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+
+<h4>Frontend</h4>
+
 ![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -43,6 +46,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
